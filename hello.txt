@@ -1,0 +1,3 @@
+#hello.txt
+#include<stdio.h>
+#include<sring.h>
